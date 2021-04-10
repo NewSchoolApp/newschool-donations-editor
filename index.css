@@ -1,0 +1,15 @@
+.container {
+  background-color: #dadada;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container div {
+  width: 30%;
+  display: flex;
+  margin: 5px;
+  justify-content: space-between;
+}
+
